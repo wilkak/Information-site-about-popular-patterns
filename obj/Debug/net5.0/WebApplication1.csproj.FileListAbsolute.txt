@@ -1,0 +1,388 @@
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.StaticWebAssets.xml
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Humanizer.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Runtime.Caching.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Chainofresponsibilily.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Command.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Interpreter.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Iterator.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Mediator.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Memento.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\NullObject.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Observer.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Specification.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\State.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Strategy.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Templatemethod.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Visitor.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.StaticWebAssets.xml
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Humanizer.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Chainofresponsibilily.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Command.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Interpreter.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Iterator.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Mediator.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Memento.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\NullObject.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Observer.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Specification.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\State.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Strategy.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Templatemethod.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Visitor.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+H:\универ\program\Основы программирования на платформе .NET\экзамен\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.StaticWebAssets.xml
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Chainofresponsibilily.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Command.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Interpreter.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Iterator.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Mediator.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Memento.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Observer.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\State.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Strategy.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Templatemethod.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Visitor.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.StaticWebAssets.xml
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Humanizer.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Runtime.Caching.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Chainofresponsibilily.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Command.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Interpreter.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Iterator.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Mediator.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Memento.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Observer.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\State.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Strategy.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Templatemethod.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Visitor.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+K:\универ\program\Основы программирования на платформе .NET\экзамен\итоговый проект сайта\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
